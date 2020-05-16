@@ -1,0 +1,3 @@
+For linear regression I have downloaded the Real estate valuation dataset from UCI Repository, you can download the dataset from here.
+ This dataset contains attributes of house age, distance from nearest MRT Station, no. of convenience store around, and geographical coordinates like longitude and latitude. 
+ This attribute dataset has another attribute called house price of the unit area which is act as output.
